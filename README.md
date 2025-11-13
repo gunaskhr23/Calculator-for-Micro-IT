@@ -1,1 +1,1 @@
-# Calculator-for-Micro-IT
+# Calculator
